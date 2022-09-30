@@ -20,4 +20,29 @@ aside
 {
     flex 1;
     overflow-y: auto;
+    background-color: palegoldenrod;
+}
+
+
+
+.logo 
+{
+    font-size: 2em;
+    padding-bottom;background: 50em;
+    padding-left:10pt;
+    padding-bottom: 13pt;
+    padding-top: 12pt;
+    margin-right: 5em;
+    background-color: lavenderblush;
+     
+}
+ header
+{
+    background-color: palegoldenrod;
+}
+
+footer
+{
+    margin: 10pt;
+    background-color: palegoldenrod;
 }
